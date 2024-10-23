@@ -1,2 +1,7 @@
 good morning students
+<<<<<<< HEAD
 hello
+=======
+hello
+world
+>>>>>>> de4dc32ebc1164006a16e215d77f8f0ff9a974f0
